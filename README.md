@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer and Cyber Security Researcher 
 
 * 🌍  I'm from Nepal
-* 🖥️  See my portfolio at [My website](http://bishalchapagain123.com.np)
+* 🖥️  See my portfolio [here](http://bishalchapagain123.com.np)
 * 🧠  I'm learning MERN stack
 * 🤝  I'm open to collaborating on Node projects
 
