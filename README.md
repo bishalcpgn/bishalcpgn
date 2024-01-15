@@ -5,8 +5,8 @@ Developer and Cyber Security Researcher
 
 * 🌍  I'm from Nepal
 * 🖥️  See my portfolio [here](http://bishalchapagain123.com.np)
-* 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on Node projects
+* 🧠  I'm learning bug-bunty. 
+* 🤝  I'm open to collaborating on Node Projects and Bug-Bunty.
 
 ### Skills
 
