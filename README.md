@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Researcher 
 
 * 🌍  I'm from Nepal
-* 🖥️  Check my articles [here](https://medium.com/@bsal_cpgn)
+* 🖥️  Check my articles [here](https://medium.com/@bishal_cpgn)
   
 
 
